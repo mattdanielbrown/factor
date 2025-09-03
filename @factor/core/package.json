@@ -10,10 +10,10 @@
     "_id": "core"
   },
   "dependencies": {
-    "@factor/api": "^1.8.30",
+    "@factor/api": "^3.0.1",
     "@factor/app": "^1.8.28",
     "@factor/attachment": "^1.8.28",
-    "@factor/build": "^1.8.29",
+    "@factor/build": "^3.0.1",
     "@factor/cli": "^1.8.28",
     "@factor/dashboard": "^1.8.28",
     "@factor/email": "^1.8.28",
