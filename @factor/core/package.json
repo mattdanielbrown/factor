@@ -10,11 +10,11 @@
     "_id": "core"
   },
   "dependencies": {
-    "@factor/api": "^1.8.30",
+    "@factor/api": "^5.5.103",
     "@factor/app": "^1.8.28",
     "@factor/attachment": "^1.8.28",
-    "@factor/build": "^1.8.29",
-    "@factor/cli": "^1.8.28",
+    "@factor/build": "^3.0.1",
+    "@factor/cli": "^3.0.1",
     "@factor/dashboard": "^1.8.28",
     "@factor/email": "^1.8.28",
     "@factor/endpoint": "^1.8.28",
@@ -24,9 +24,9 @@
     "@factor/plugin-ssr-bar": "^1.8.28",
     "@factor/plugin-storage-s3": "^1.8.28",
     "@factor/post": "^1.8.28",
-    "@factor/server": "^1.8.28",
+    "@factor/server": "^3.0.1",
     "@factor/templates": "^1.8.28",
-    "@factor/ui": "^1.8.28",
+    "@factor/ui": "^5.5.63",
     "@factor/user": "^1.8.28",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.0"
