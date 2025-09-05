@@ -90,7 +90,7 @@
     "jest": "^26.0.0",
     "jest-junit": "^10.0.0",
     "jsdom": "^16.0.0",
-    "lerna": "^3.13.0",
+    "lerna": "^6.5.0",
     "mongodb-memory-server": "^6.0.1",
     "poi": "^12.7.5",
     "prettier": "^2.0.4",
