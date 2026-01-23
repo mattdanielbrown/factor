@@ -42,7 +42,7 @@
     "server-destroy": "^1.0.1",
     "vue": "^2.6.8",
     "vue-server-renderer": "^2.6.8",
-    "webpack": "^4.29.6",
+    "webpack": "^5.0.0",
     "webpack-dev-middleware": "^3.6.0",
     "webpack-hot-middleware": "^2.24.3",
     "yargs": "^15.0.2"
